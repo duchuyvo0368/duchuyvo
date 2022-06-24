@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EXQUIZIT</string>
+    <string name="what_math">What Math</string>
+    <string name="_0_10">0/10</string>
+    <string name="apple">apple</string>
+    <string name="pear">pear</string>
+    <string name="banana">banana</string>
+    <string name="grapefruit">grapefruit</string>
+    <string name="submit">SUBMIT</string>
+</resources>

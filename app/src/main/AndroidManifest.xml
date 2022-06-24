@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="LockedOrientationActivity"
+    package="com.bob.quizapp">
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/quizlogobig"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/quizlogobig"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.QuizApp">
+
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoActionBarTheme">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+        </activity>
+        <activity
+            android:exported="false"
+            android:name=".ResultActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoActionBarTheme" />
+        <activity
+            android:exported="false"
+            android:name=".QuizQuestionsActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoActionBarTheme" />
+        <activity
+            android:exported="false"
+            android:name=".QuizQuestionsActivityEasy"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoActionBarTheme" />
+        <activity
+            android:exported="false"
+            android:name=".QuizQuestionsActivityMedium"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoActionBarTheme" />
+        <activity
+            android:exported="false"
+            android:name=".QuizQuestionsActivityHard"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoActionBarTheme" />
+        <activity
+            android:exported="false"
+            android:name=".QuizQuestionsActivityVHard"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoActionBarTheme" />
+        <activity
+            android:name=".QuizChoice"
+            android:screenOrientation="portrait"
+            android:allowEmbedded="false"
+            android:theme="@style/NoActionBarTheme" />
+        <activity
+            android:exported="false"
+            android:name=".MainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoActionBarTheme"
+            android:windowSoftInputMode="adjustResize"/>
+
+    </application>
+
+</manifest>

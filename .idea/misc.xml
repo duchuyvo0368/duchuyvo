@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/QuizApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1215" />
+        <entry key="..\:/Users/Admin/QuizApp12/app/src/main/res/drawable/default_option_border_bg.xml" value="0.179" />
+        <entry key="..\:/Users/Admin/QuizApp12/app/src/main/res/layout-sw600dp/activity_quiz_questions.xml" value="0.176" />
+        <entry key="..\:/Users/Admin/QuizApp12/app/src/main/res/layout/activity_main.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Admin/QuizApp12/app/src/main/res/layout/activity_quiz_choice.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/QuizApp12/app/src/main/res/layout/activity_quiz_questions.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/Admin/QuizApp12/app/src/main/res/layout/activity_result.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Admin/QuizApp12/app/src/main/res/layout/activity_splash_screen.xml" value="0.136" />
+        <entry key="..\:/Users/Bob/AndroidStudioProjects/QuizApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Users/Bob/AndroidStudioProjects/QuizApp/app/src/main/res/layout-sw600dp/activity_quiz_questions.xml" value="0.275" />
+        <entry key="..\:/Users/Bob/AndroidStudioProjects/QuizApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Bob/AndroidStudioProjects/QuizApp/app/src/main/res/layout/activity_quiz_choice.xml" value="0.25" />
+        <entry key="..\:/Users/Bob/AndroidStudioProjects/QuizApp/app/src/main/res/layout/activity_quiz_questions.xml" value="0.3111111111111111" />
+        <entry key="..\:/Users/Bob/AndroidStudioProjects/QuizApp/app/src/main/res/layout/activity_result.xml" value="0.30648148148148147" />
+        <entry key="..\:/Users/Bob/AndroidStudioProjects/QuizApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
